@@ -18,6 +18,3 @@ func test1() {
 	fmt.Printf(ls)  //打印改变后的字符串
 }
 
-func test2() {
-
-}
